@@ -1,3 +1,5 @@
  Allay served me breakfast
 
-my first readme
+my first repository on gitgub
+
+i love :coffe: :pizza:, and :dancer:
